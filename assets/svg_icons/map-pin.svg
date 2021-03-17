@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="127px" viewBox="0 0 112 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Group 2</title>
+  <defs>
+    <filter x="-54.0%" y="-43.5%" width="208.1%" height="187.0%" filterUnits="objectBoundingBox" id="filter-1">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0.145719612   0 0 0 0 0.323378249   0 0 0 0 0.565821641  0 0 0 0.355553668 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="dagnet_contacts" transform="translate(-753.000000, -1469.000000)">
+      <g id="Group-2" filter="url(#filter-1)" transform="translate(778.000000, 1494.000000)">
+        <ellipse id="Oval" fill="#15489D" cx="31" cy="73.9708891" rx="3" ry="2.99881983"></ellipse>
+        <path d="M31,67.9732494 C31.5283203,67.9732494 33.2206797,62.0704457 36.9790039,61.3443925 C51.4580078,58.495534 62,45.8079873 62,30.9878049 C62,13.8737128 48.1208272,0 31,0 C13.8791728,0 0,13.8737128 0,30.9878049 C0,45.9597779 10.6221865,58.4517822 24.7443323,61.3443925 C28.581543,62.3172722 30.4716797,67.9732494 31,67.9732494 Z" id="Oval-198" fill="#15489D"></path>
+        <g id="Group-5" transform="translate(8.000000, 21.000000)">
+          <polyline id="Fill-33" fill="#FFFFFF" points="3.64394401 13.5757761 0 17.2197201 3.64394401 17.2197201 3.64394401 13.5757761"></polyline>
+          <polyline id="Fill-34" fill="#FFFFFF" points="10.9314254 9.93183204 9.10945344 8.10986004 7.28748143 9.93183204 7.28748143 17.2197201 10.9314254 17.2197201 10.9314254 9.93183204"></polyline>
+          <polyline id="Fill-35" fill="#FFFFFF" points="18.2193135 6.28788803 14.5753695 9.93183204 14.5753695 17.2197201 18.2193135 17.2197201 18.2193135 6.28788803"></polyline>
+          <polygon id="Fill-36" fill="#FFFFFF" points="23.6852295 0.821972007 21.8632575 2.64394401 21.8632575 17.2197201 25.5072015 17.2197201 25.5072015 2.64394401"></polygon>
+          <polyline id="Fill-33" fill="#FFFFFF" points="47 13.5757761 43.356056 17.2197201 47 17.2197201 47 13.5757761"></polyline>
+          <polyline id="Fill-34" fill="#FFFFFF" points="39.7125186 9.93183204 37.8905466 8.10986004 36.0685746 9.93183204 36.0685746 17.2197201 39.7125186 17.2197201 39.7125186 9.93183204"></polyline>
+          <polyline id="Fill-35" fill="#FFFFFF" points="32.4246305 6.28788803 28.7806865 9.93183204 28.7806865 17.2197201 32.4246305 17.2197201 32.4246305 6.28788803"></polyline>
+          <path d="M7.3057784,0.821972007 L7.26959105,0.821972007 C6.27342247,0.821972007 5.46550942,1.62947846 5.46550942,2.62564704 L5.46550942,2.66224099 C5.46550942,3.65840957 6.27342247,4.46591602 7.26959105,4.46591602 L7.3057784,4.46591602 C8.30194699,4.46591602 9.10945344,3.65840957 9.10945344,2.66224099 L9.10945344,2.62564704 C9.10945344,1.62947846 8.30194699,0.821972007 7.3057784,0.821972007" id="Fill-37" fill="#E1604D"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
